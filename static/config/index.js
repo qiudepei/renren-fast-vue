@@ -6,7 +6,8 @@
     window.SITE_CONFIG = {};
 
     // api接口请求地址
-    window.SITE_CONFIG['baseUrl'] = 'http://localhost:88/api';
+    // window.SITE_CONFIG['baseUrl'] = 'http://47.115.178.9:88/api';
+    window.SITE_CONFIG['baseUrl'] = 'http://47.112.254.45:88/api';
 
     // cdn地址 = 域名 + 版本号
     window.SITE_CONFIG['domain'] = './'; // 域名
